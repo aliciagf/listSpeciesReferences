@@ -8,7 +8,14 @@ output: html_document
 I am doing to make a plot
 ```{r}
 data(iris)
-plot(iris$Sepal.Length, iris$Sepal.Width, 
-     main = "Plotting iris")
+
+library(ggplot2)
+ggplot(iris) +
+  aes(Sepal.Length, Sepal.Width) +
+  geom_point()
+
+
+# plot(iris$Sepal.Length, iris$Sepal.Width, 
+#      main = "Plotting iris")
 ```
 
