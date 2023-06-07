@@ -1,2 +1,2 @@
-# mynewproject
-This is my first project developed on GitHub
+# List of species and references 
+This species list forms the Supplementary Table 5 of the manuscript entitled "Early human selection of crops' wild progenitors explains the acquisitive physiology of modern cultivars" by Alicia Gómez-Fernández, Ismael Aranda & Rubén Milla. The table provides a complete list of literature sources and databases used to compile a global species-level dataset on five leaf ecophysiological traits: (1) net photosynthetic rate per unit area, (2) stomatal conductance to water vapour, (3) mass-based foliar nitrogen concentration, (4) specific leaf area, and (5) 13C isotopic composition.
